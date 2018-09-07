@@ -4,7 +4,7 @@
 
 * Use aggregate functions as you run queries to answer the following questions. You will have to search the internet for some of them. Try to use aliases for more informative column headings!
 
-1. How much does it cost to rent the average film in the Sakila stores?
+1. What is the average cost to rent a film in the Sakila stores?
 
 2. What is the average rental cost of films by rating? On average, what is the cheapest rating of films to rent? Most expensive?
 
